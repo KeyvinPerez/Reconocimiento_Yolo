@@ -1,0 +1,57 @@
+{
+    "name": "anotacion",
+    "securityToken": "anotacion Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDU2NDllMGRmZTMzNjg1Mjk5MTM2YmIxNTAyZDUzY2YyMzI3MGE5YzZmZWRkZmNiNjIyNzNkMTlmMWIwNDQwOTgzMzJmZWMwYmYzZTc3OTUzMzQ0MGQ4MTUwNjMyMjQ4OTNkM2NhMzgwNjhlNmRiMGU3ZGZhNjdkOTVlNDk2ODMwYTMyMDRkYmUyYmY1Yzg3NmY2ODUzMTFkODIzMTg0MTU0N2ZmNzg4NDE0YjRmZDlhMzY0NDU5ODRhYzU0MzQzNjEzZGM2OGNjMTQ4ZTVjZjViMTY4YjMyOTYxZjA1OWUiLCJpdiI6ImQxODU2NTQ0YTRlYjU3ODBhOTYyYjg2NTVmNWIxNDc3NGMyNGIyN2JiYTJiMDBkOCJ9"
+        },
+        "id": "Nh-3RFz17"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjE4YjBhOWFlYjQzYzc3MTVhYzU3NWQyYjlmMmRkMTZmMzY4OWQwZjE4NzZlN2VlNzQ0ZGVjMzIzMTg4N2EyZDdjOTQ0NGNkMjJkZWRlYzAyNWRkY2ViNjQxYzFhOGU4YmUzMDU5Y2E4OTE4MDJhMzQ3Y2U1YWY1MzcyMTMyZWYwZTFmODMxZTlmOTE2OGJjZDE0N2RkZjk0ZTY0NGE3MGU1MjdmZDdmZTgwY2YxYWNmZmY2YWU2NDY1YThhYzdjZTA4ZGMzMGY4OWJiZjBiMDlkYmZlMGQ0MDRhNWM1MmYiLCJpdiI6ImNjZmMyZWVkOWE5NzgxMjUzZDViOTg0ZTY0Y2NjN2NhNjliZWNmNTY2MTcxNGJhNyJ9"
+        },
+        "id": "Nh-3RFz17"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Persona",
+            "color": "#5db300"
+        }
+    ],
+    "id": "WLx_W8l34",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzBkOTA2OGM4MmYzNzM4MGU5MzZjZjA0NjI5OTMyNWRkNzUzYzRlN2I5MTBlMTQ0NThmN2MyZTI2ODhjNTE1NmIyNzk3MzFiYzg5ODIwNGYwNzBkNzZlNjNhNDA2ODI1IiwiaXYiOiJjMzM0ZTI0YjUyZmE4NzkyNWM2N2M1YTRjNWNjNzIzZjQxMDYyZDU4Y2I0YzMzNTEifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "8d4032dcd1491593d17ad8a20c2a19c9",
+    "assets": {
+        "8d4032dcd1491593d17ad8a20c2a19c9": {
+            "format": "jpeg",
+            "id": "8d4032dcd1491593d17ad8a20c2a19c9",
+            "name": "1590801135620.jpeg",
+            "path": "file:C:/Users/Kimberly/Downloads/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/1590801135620.jpeg",
+            "size": {
+                "width": 299,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

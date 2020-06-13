@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "295d1997d3cc1bd017e169eaba9c2e5e",
+        "name": "descarga%20(1).jpg",
+        "path": "file:C:/Users/Kimberly/Downloads/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/descarga%20(1).jpg",
+        "size": {
+            "width": 275,
+            "height": 183
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VaxySDdKs",
+            "type": "RECTANGLE",
+            "tags": [
+                "Persona"
+            ],
+            "boundingBox": {
+                "height": 171.06521739130434,
+                "width": 88.51717902350813,
+                "left": 100.45207956600362,
+                "top": 9.44836956521739
+            },
+            "points": [
+                {
+                    "x": 100.45207956600362,
+                    "y": 9.44836956521739
+                },
+                {
+                    "x": 188.96925858951175,
+                    "y": 9.44836956521739
+                },
+                {
+                    "x": 188.96925858951175,
+                    "y": 180.51358695652172
+                },
+                {
+                    "x": 100.45207956600362,
+                    "y": 180.51358695652172
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

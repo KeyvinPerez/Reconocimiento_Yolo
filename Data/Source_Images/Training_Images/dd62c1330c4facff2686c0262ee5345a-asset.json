@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dd62c1330c4facff2686c0262ee5345a",
+        "name": "images%20(50).jpg",
+        "path": "file:C:/Users/Kimberly/Downloads/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/images%20(50).jpg",
+        "size": {
+            "width": 300,
+            "height": 168
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "y2XOsPkoD",
+            "type": "RECTANGLE",
+            "tags": [
+                "Persona"
+            ],
+            "boundingBox": {
+                "height": 116.05887096774195,
+                "width": 51.53707052441229,
+                "left": 208.31826401446654,
+                "top": 51.94112903225807
+            },
+            "points": [
+                {
+                    "x": 208.31826401446654,
+                    "y": 51.94112903225807
+                },
+                {
+                    "x": 259.8553345388788,
+                    "y": 51.94112903225807
+                },
+                {
+                    "x": 259.8553345388788,
+                    "y": 168.00000000000003
+                },
+                {
+                    "x": 208.31826401446654,
+                    "y": 168.00000000000003
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

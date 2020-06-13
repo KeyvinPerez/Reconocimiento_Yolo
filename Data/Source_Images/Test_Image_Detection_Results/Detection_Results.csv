@@ -1,0 +1,6 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+IMG-20190604-WA0003.jpg,C:\Users\Kimberly\downloads\TrainYourOwnYOLO-master\Data\Source_Images\Test_Images\IMG-20190604-WA0003.jpg,377,280,481,584,0,0.35027578473091125,1040,584
+IMG-20190604-WA0003.jpg,C:\Users\Kimberly\downloads\TrainYourOwnYOLO-master\Data\Source_Images\Test_Images\IMG-20190604-WA0003.jpg,483,236,572,584,0,0.3788205683231354,1040,584
+IMG-20190604-WA0003.jpg,C:\Users\Kimberly\downloads\TrainYourOwnYOLO-master\Data\Source_Images\Test_Images\IMG-20190604-WA0003.jpg,184,250,312,584,0,0.38076427578926086,1040,584
+IMG-20190604-WA0003.jpg,C:\Users\Kimberly\downloads\TrainYourOwnYOLO-master\Data\Source_Images\Test_Images\IMG-20190604-WA0003.jpg,642,274,766,567,0,0.49309009313583374,1040,584
+person.jpg,C:\Users\Kimberly\downloads\TrainYourOwnYOLO-master\Data\Source_Images\Test_Images\person.jpg,190,122,278,338,0,0.7756370902061462,640,424
