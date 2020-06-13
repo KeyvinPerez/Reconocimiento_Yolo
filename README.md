@@ -1,4 +1,4 @@
-# TrainYourOwnYOLO: Creación de un detector de objetos personalizado desde cero
+# Creación de un detector de objetos personalizados desde cero
 
 Este repositorio le pemitira entrenar un detector de imagen personalizado utilizando el algoritmo de visión por computadora de última generación [YOLOv3] (https://pjreddie.com/darknet/yolo/)
 
